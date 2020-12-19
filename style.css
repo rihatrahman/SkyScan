@@ -10,7 +10,6 @@
 }
 
 .weather-description {
-    
     display: grid;
     grid-template-columns: 50% 50%;
     padding-top: 1em;
@@ -18,28 +17,23 @@
 }
 
 .page-title {
-
     font-style: italic;
     color: #d9514eff;
 }
 
 #submit-button {
-
     background-color: #696969;
     color: white;
 }
 
 body {
-
     padding-right: 30em;
     padding-left: 30em;
 }
 
 @media only screen and (min-width: 768px) {
 
-
     body {
-
         padding-right: 0em;
         padding-left: 0em;
     }
